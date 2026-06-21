@@ -1,0 +1,14 @@
+{
+    "symptoms": [
+        "Limitaci\u00f3n del movimiento",
+        "Inflamaci\u00f3n"
+    ],
+    "observables": {
+        "fatigue": "Medio",
+        "hydration": "Medio",
+        "activity": "Gimnasio - Pesas",
+        "body_part": "Zona lumbar"
+    },
+    "mode": "LOCAL",
+    "patient": "Jose Garcia Garcia"
+}

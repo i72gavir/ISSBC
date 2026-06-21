@@ -1,0 +1,14 @@
+{
+    "symptoms": [
+        "Dolor agudo repentino",
+        "Hematoma"
+    ],
+    "observables": {
+        "fatigue": "Medio",
+        "hydration": "Alto",
+        "activity": "F\u00fatbol",
+        "body_part": "Rodilla"
+    },
+    "mode": "LOCAL",
+    "patient": "Rafael Galan Villen"
+}
